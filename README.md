@@ -1,7 +1,8 @@
-# js-lab-98
-### Lab98 Array: การเพิ่มค่าelement
-ให้เพิ่ม mazda bmw และ nissan เข้าไปใน cars โดยให้อยู่ข้างหลัง honda
+# js-lab-99
+### Lab99 Array: การสร้างตัวแปรจากตัวแปร3
+ให้สร้างตัวแปร Array ที่เกิดจากการนำค่า element ใน a และ b มาต่อกัน
 
 ```JavaScript
-const cars = ['volvo', 'toyota', 'honda', 'ford'];
+const a = [1, 5, 7, 11];
+const b = [2, 3, 6];
 ```
